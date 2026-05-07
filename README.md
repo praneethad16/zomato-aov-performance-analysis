@@ -51,3 +51,14 @@ This analysis investigates:
 The analysis revealed that strong order volume does not necessarily translate into high-quality revenue generation. Customer retention depth, revenue concentration, and dependence on specific customer segments were identified as major business concerns.
 
 This project combined Excel-based data validation and Tableau visualization techniques to evaluate monetization efficiency and customer behaviour patterns.
+
+## Dashboard Visuals
+
+### AOV by City
+![AOV by City](aov-by-city.png)
+
+### Order Volume vs AOV
+![Order Volume vs AOV](order-volume-vs-aov.png)
+
+### Monthly AOV Trend
+![Monthly AOV Trend](monthly-aov-trend.png)

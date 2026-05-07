@@ -62,3 +62,6 @@ This project combined Excel-based data validation and Tableau visualization tech
 
 ### Monthly AOV Trend
 ![Monthly AOV Trend](monthly-aov-trend.png)
+
+## Interactive Tableau Dashboard
+[View Full Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/praneetha.d3255/viz/Zomato_Revenue_Analysis/AOVPerformanceDashboard)
